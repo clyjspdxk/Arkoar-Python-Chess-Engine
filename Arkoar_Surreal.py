@@ -370,4 +370,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-#rnbqk2r/pppp1ppp/5n2/2b1p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4
+#测试用FEN，将死rnbqk2r/pppp1ppp/5n2/2b1p2Q/2B1P3/8/PPPP1PPP/RNB1K1NR w KQkq - 0 4
